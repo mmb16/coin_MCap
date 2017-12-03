@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/coin_MCap.rb"
+
+puts "Hello"
+
+#revist permissions
+CoinMCap::API.new
